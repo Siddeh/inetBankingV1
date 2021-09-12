@@ -1,0 +1,139 @@
+[INFO ] 2021-09-08 10:23:45.883 [main] Base - Url is opened
+[INFO ] 2021-09-08 10:23:46.151 [main] Base - Enter user name
+[INFO ] 2021-09-08 10:23:46.342 [main] Base - Enter Password
+[INFO ] 2021-09-08 10:23:48.677 [main] Base - Click submit button
+[INFO ] 2021-09-08 10:23:48.730 [main] Base - Test passed
+[INFO ] 2021-09-08 12:41:27.515 [main] Base - Url is opened
+[INFO ] 2021-09-08 12:41:27.646 [main] Base - Enter user name
+[INFO ] 2021-09-08 12:41:27.718 [main] Base - Enter Password
+[INFO ] 2021-09-08 12:41:28.928 [main] Base - Click submit button
+[INFO ] 2021-09-08 12:41:28.944 [main] Base - Test passed
+[INFO ] 2021-09-08 13:38:06.784 [main] Base - Url is opened
+[INFO ] 2021-09-08 13:38:06.875 [main] Base - Enter user name
+[INFO ] 2021-09-08 13:38:06.937 [main] Base - Enter Password
+[INFO ] 2021-09-08 13:38:08.424 [main] Base - Click submit button
+[INFO ] 2021-09-08 13:38:08.453 [main] Base - Test passed
+[INFO ] 2021-09-08 13:40:25.671 [main] Base - Url is opened
+[INFO ] 2021-09-08 13:40:25.759 [main] Base - Enter user name
+[INFO ] 2021-09-08 13:40:25.785 [main] Base - Enter Password
+[INFO ] 2021-09-08 13:40:26.984 [main] Base - Click submit button
+[INFO ] 2021-09-08 13:40:26.998 [main] Base - Test passed
+[INFO ] 2021-09-08 13:41:09.582 [main] Base - Url is opened
+[INFO ] 2021-09-08 13:41:10.028 [main] Base - Enter user name
+[INFO ] 2021-09-08 13:41:10.341 [main] Base - Enter Password
+[INFO ] 2021-09-08 13:41:10.825 [main] Base - Click submit button
+[INFO ] 2021-09-08 21:58:26.007 [main] Base - Url is opened
+[INFO ] 2021-09-08 21:58:26.333 [main] Base - Enter user name
+[INFO ] 2021-09-08 21:58:26.438 [main] Base - Enter Password
+[INFO ] 2021-09-08 21:58:28.778 [main] Base - Click submit button
+[INFO ] 2021-09-08 21:58:28.833 [main] Base - Test passed
+[INFO ] 2021-09-09 08:41:32.028 [main] Base - Url is opened
+[INFO ] 2021-09-09 08:41:32.149 [main] Base - Enter user name
+[INFO ] 2021-09-09 08:41:32.220 [main] Base - Enter Password
+[INFO ] 2021-09-09 08:41:34.291 [main] Base - Click submit button
+[INFO ] 2021-09-09 08:41:34.310 [main] Base - Test passed
+[INFO ] 2021-09-09 09:04:34.452 [main] Base - Url is opened
+[INFO ] 2021-09-09 09:04:34.547 [main] Base - Enter user name
+[INFO ] 2021-09-09 09:04:34.606 [main] Base - Enter Password
+[INFO ] 2021-09-09 09:04:36.463 [main] Base - Click submit button
+[INFO ] 2021-09-09 09:04:36.490 [main] Base - Test passed
+[INFO ] 2021-09-09 09:05:05.730 [main] Base - Url is opened
+[INFO ] 2021-09-09 09:05:05.823 [main] Base - Enter user name
+[INFO ] 2021-09-09 09:05:05.886 [main] Base - Enter Password
+[INFO ] 2021-09-09 09:05:08.433 [main] Base - Click submit button
+[INFO ] 2021-09-09 11:31:07.278 [main] Base - user name provided
+[INFO ] 2021-09-09 11:31:07.385 [main] Base - password provided
+[INFO ] 2021-09-09 11:31:13.029 [main] Base - Login passed
+[INFO ] 2021-09-09 11:31:19.258 [main] Base - user name provided
+[INFO ] 2021-09-09 11:31:19.434 [main] Base - password provided
+[INFO ] 2021-09-09 11:31:26.167 [main] Base - user name provided
+[INFO ] 2021-09-09 11:31:26.305 [main] Base - password provided
+[INFO ] 2021-09-09 11:31:33.125 [main] Base - user name provided
+[INFO ] 2021-09-09 11:31:33.293 [main] Base - password provided
+[INFO ] 2021-09-09 11:31:37.358 [main] Base - Login passed
+[INFO ] 2021-09-09 11:31:43.118 [main] Base - user name provided
+[INFO ] 2021-09-09 11:31:43.286 [main] Base - password provided
+[INFO ] 2021-09-09 11:45:01.328 [main] Base - user name provided
+[INFO ] 2021-09-09 11:45:01.416 [main] Base - password provided
+[INFO ] 2021-09-09 11:45:07.195 [main] Base - Login passed
+[INFO ] 2021-09-09 11:45:13.230 [main] Base - user name provided
+[INFO ] 2021-09-09 11:45:13.417 [main] Base - password provided
+[WARN ] 2021-09-09 11:45:17.410 [main] Base - Login failed
+[INFO ] 2021-09-09 11:45:20.264 [main] Base - user name provided
+[INFO ] 2021-09-09 11:45:20.451 [main] Base - password provided
+[WARN ] 2021-09-09 11:45:24.247 [main] Base - Login failed
+[INFO ] 2021-09-09 11:45:26.984 [main] Base - user name provided
+[INFO ] 2021-09-09 11:45:27.089 [main] Base - password provided
+[INFO ] 2021-09-09 11:45:31.056 [main] Base - Login passed
+[INFO ] 2021-09-09 11:45:37.597 [main] Base - user name provided
+[INFO ] 2021-09-09 11:45:37.775 [main] Base - password provided
+[WARN ] 2021-09-09 11:45:41.425 [main] Base - Login failed
+[INFO ] 2021-09-09 15:08:43.614 [main] Base - User name is provided
+[INFO ] 2021-09-09 15:08:43.797 [main] Base - Passsword is provided
+[INFO ] 2021-09-09 15:08:49.520 [main] Base - providing customer details....
+[INFO ] 2021-09-09 15:08:59.548 [main] Base - validation started....
+[INFO ] 2021-09-09 15:08:59.569 [main] Base - test case failed....
+[INFO ] 2021-09-09 15:19:26.791 [main] Base - User name is provided
+[INFO ] 2021-09-09 15:19:27.034 [main] Base - Passsword is provided
+[INFO ] 2021-09-09 15:19:33.111 [main] Base - providing customer details....
+[INFO ] 2021-09-09 15:19:43.143 [main] Base - validation started....
+[INFO ] 2021-09-09 15:19:43.172 [main] Base - test case passed....
+[INFO ] 2021-09-10 06:04:39.772 [main] Base - User name is provided
+[INFO ] 2021-09-10 06:04:39.994 [main] Base - Passsword is provided
+[INFO ] 2021-09-10 06:04:46.633 [main] Base - providing customer details....
+[INFO ] 2021-09-10 06:04:56.793 [main] Base - validation started....
+[INFO ] 2021-09-10 06:04:56.822 [main] Base - test case passed....
+[INFO ] 2021-09-10 07:04:01.785 [main] Base - User name is provided
+[INFO ] 2021-09-10 07:04:01.890 [main] Base - Passsword is provided
+[INFO ] 2021-09-10 07:04:11.479 [main] Base - providing customer details....
+[INFO ] 2021-09-10 07:04:21.708 [main] Base - validation started....
+[INFO ] 2021-09-10 07:04:21.731 [main] Base - test case passed....
+[INFO ] 2021-09-10 07:05:02.405 [main] Base - User name is provided
+[INFO ] 2021-09-10 07:05:02.558 [main] Base - Passsword is provided
+[INFO ] 2021-09-10 07:05:08.912 [main] Base - providing customer details....
+[INFO ] 2021-09-10 07:05:18.986 [main] Base - validation started....
+[INFO ] 2021-09-10 07:05:19.008 [main] Base - test case passed....
+[INFO ] 2021-09-10 08:00:26.885 [main] Base - User name is provided
+[INFO ] 2021-09-10 08:00:26.956 [main] Base - Passsword is provided
+[INFO ] 2021-09-10 08:00:32.239 [main] Base - providing customer details....
+[INFO ] 2021-09-10 08:00:41.404 [main] Base - validation started....
+[INFO ] 2021-09-10 08:00:41.415 [main] Base - test case passed....
+[INFO ] 2021-09-10 08:01:36.092 [main] Base - User name is provided
+[INFO ] 2021-09-10 08:01:36.158 [main] Base - Passsword is provided
+[INFO ] 2021-09-10 08:01:41.911 [main] Base - providing customer details....
+[INFO ] 2021-09-10 08:01:51.062 [main] Base - validation started....
+[INFO ] 2021-09-10 08:01:51.076 [main] Base - test case passed....
+[INFO ] 2021-09-10 08:02:03.908 [main] Base - User name is provided
+[INFO ] 2021-09-10 08:02:03.981 [main] Base - Passsword is provided
+[INFO ] 2021-09-10 08:02:09.161 [main] Base - providing customer details....
+[INFO ] 2021-09-10 08:02:18.288 [main] Base - validation started....
+[INFO ] 2021-09-10 19:38:31.617 [main] Base - User name is provided
+[INFO ] 2021-09-10 19:38:31.695 [main] Base - Passsword is provided
+[INFO ] 2021-09-10 19:38:37.441 [main] Base - providing customer details....
+[INFO ] 2021-09-10 19:38:46.879 [main] Base - validation started....
+[INFO ] 2021-09-10 19:38:46.891 [main] Base - test case passed....
+[INFO ] 2021-09-10 20:17:42.335 [main] Base - User name is provided
+[INFO ] 2021-09-10 20:17:42.404 [main] Base - Passsword is provided
+[INFO ] 2021-09-10 20:17:49.691 [main] Base - providing customer details....
+[INFO ] 2021-09-10 20:17:59.491 [main] Base - validation started....
+[INFO ] 2021-09-10 20:17:59.503 [main] Base - test case passed....
+[INFO ] 2021-09-10 21:04:38.190 [main] Base - User name is provided
+[INFO ] 2021-09-10 21:04:38.259 [main] Base - Passsword is provided
+[INFO ] 2021-09-10 21:04:48.101 [main] Base - providing customer details....
+[INFO ] 2021-09-10 21:04:57.717 [main] Base - validation started....
+[INFO ] 2021-09-10 21:04:57.730 [main] Base - test case passed....
+[INFO ] 2021-09-10 21:05:40.772 [main] Base - User name is provided
+[INFO ] 2021-09-10 21:05:40.839 [main] Base - Passsword is provided
+[INFO ] 2021-09-10 21:05:48.036 [main] Base - providing customer details....
+[INFO ] 2021-09-10 21:05:58.206 [main] Base - validation started....
+[INFO ] 2021-09-10 21:05:58.218 [main] Base - test case passed....
+[INFO ] 2021-09-11 20:16:29.346 [main] Base - User name is provided
+[INFO ] 2021-09-11 20:16:29.413 [main] Base - Passsword is provided
+[INFO ] 2021-09-11 20:16:34.961 [main] Base - providing customer details....
+[INFO ] 2021-09-11 20:16:44.492 [main] Base - validation started....
+[INFO ] 2021-09-11 20:16:44.501 [main] Base - test case passed....
+[INFO ] 2021-09-12 11:37:52.850 [main] Base - User name is provided
+[INFO ] 2021-09-12 11:37:52.921 [main] Base - Passsword is provided
+[INFO ] 2021-09-12 11:38:09.104 [main] Base - providing customer details....
+[INFO ] 2021-09-12 11:38:22.950 [main] Base - validation started....
+[INFO ] 2021-09-12 11:38:22.982 [main] Base - test case passed....

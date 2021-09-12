@@ -1,0 +1,47 @@
+//logger=LogManager.getLogger(Base.class); //Log4j for every class
+		logger = LogManager.getLogger(Base.class.getName());//
+		//PropertyConfigurator.configure("log4j2.properties");
+		
+		
+		
+		/System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"\\Drivers\\chromedriver.exe");  // without readconfig
+		System.setProperty("webdriver.chrome.driver",readconfig.getChromePath());  // using readconfig proprtires
+		driver=new ChromeDriver();
+		
+		///
+		
+		ExtentHtmlReporter, ExtentLoggerReporter The ExtentHtmlReporter and ExtentLoggerReporter were deprecated in series 4.1.x and have been removed in version 5. The replacement is ExtentSparkReporter, which is comprehensive, ports all features along with a host of new ones.
+
+ExtentSparkReporter spark = new ExtentSparkReporter("Spark.html");
+
+https://www.extentreports.com/docs/versions/5/java/index.html
+
+https://www.extentreports.com/docs/versions/5/java/index.html
+
+
+// for random alphenumeric
+
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-lang3</artifactId>
+    <version>3.12.0</version>
+</dependency>
+///
+
+Executing Testng.xml using POM xml -compiler plugin and sure fire pligin 
+https://maven.apache.org/plugins/maven-compiler-plugin/examples/set-compiler-source-and-target.html
+http://maven.apache.org/surefire/maven-surefire-plugin/examples/testng.html
+
+Refresh _Update Maven Project- Open POM.xml -Run as Maven Test ( witj]h in eclipse)
+
+cmd - Run maven through command Prompt
+
+Project location: C:\Users\Siddesha\Intbanking\inetBankingV1
+cd C:\Users\Siddesha\Intbanking\inetBankingV1
+
+cls - to clear the console
+mvn clean install 
+
+cd C:\Users\Siddesha\Intbanking\inetBankingV1
+mvn clean install
+
